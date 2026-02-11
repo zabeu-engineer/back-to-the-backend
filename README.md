@@ -19,6 +19,19 @@ To keep the code clean, follow this organization:
 
 ---
 
+## 🛠️ Tech Stack
+You are required to use the following technologies for this project:
+
+*   **Runtime:** Node.js + TypeScript
+*   **Framework:** [Express](https://expressjs.com)
+*   **ORM:** [Sequelize](https://sequelize.org)
+*   **Database:** [PostgreSQL](https://www.postgresql.org)
+*   **Validation:** [Zod](https://zod.dev) or [Joi](https://joi.dev)
+*   **Env Vars:** [Dotenv](https://www.npmjs.com)
+*   **Testing:** [Jest](https://jestjs.io)
+
+---
+
 ## 🏗️ Data Model (Entity: `Game`)
 Each game in your collection must follow this structure:
 

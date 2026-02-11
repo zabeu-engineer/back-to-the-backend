@@ -1,5 +1,3 @@
-# back-to-the-backend
-
 # 🎮 Back-to-the-Backend: Retro Game Library
 
 Welcome to the **Retro Game Library** challenge! Your mission is to build a robust REST API to manage a collection of classic video games using **Node.js**, **TypeScript**, and **Express**.
